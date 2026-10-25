@@ -1,6 +1,6 @@
 💫Hi🖐🏻, I'm Sayantani Simlai.
 
-*A  B.Tech ECE 3rd year student passionate about technology, innovation, and artificial intelligence.*
+*A  B.Tech ECE Final year student passionate about technology, innovation, and artificial intelligence.*
 *I'm currently exploring full-stack web development and excited to build projects that integrate tech and creativity.*
 
 *Skills✍️🏻:*
